@@ -138,3 +138,5 @@
 [user]
 	email = caio.gallo@gmail.com
 	name = Caio C. Gallo
+[credential]
+	helper = cache
